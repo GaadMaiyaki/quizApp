@@ -1,0 +1,17 @@
+.myBg{
+    background: linear-gradient(rgba(5, 31, 0, 0.335), rgb(168, 167, 167));
+}
+.shd{
+    background: linear-gradient(#aae7a7, #575757);
+    box-shadow: 5px 5px 8px rgba(16, 17, 17, 0.719);
+}
+.round{
+    border-radius: 3px;
+}
+.bg{
+    background: linear-gradient(#aae7a7, #575757);
+
+}
+.text{
+   color: #d3eed2;
+}
